@@ -1,0 +1,169 @@
+{
+  "questions": [
+    {
+      "question": "¿Quién es el autor de 'El camino de los reyes'?",
+      "options": [
+        "Brandon Sanderson",
+        "Patrick Rothfuss",
+        "George R.R. Martin",
+        "Robert Jordan"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "¿Cuál es el nombre del protagonista que lidera el Puente Cuatro?",
+      "options": [
+        "Dalinar",
+        "Adolin",
+        "Kaladin",
+        "Szeth"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "¿Qué grupo de personas son en realidad los Portadores del Vacío esclavizados?",
+      "options": [
+        "Los alezi",
+        "Los parshendi",
+        "Los parshmenios",
+        "Los shin"
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "¿Quién traiciona a Dalinar en la batalla de la Torre?",
+      "options": [
+        "Elhokar",
+        "Adolin",
+        "Sadeas",
+        "Amaram"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "¿Qué objeto intercambia Dalinar por la libertad de los hombres de los puentes?",
+      "options": [
+        "Su armadura esquirlada",
+        "Su espada esquirlada",
+        "Su reino",
+        "Su título de Alto Príncipe"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "¿Qué tipo de spren es Syl?",
+      "options": [
+        "Vientospren",
+        "Honorspren",
+        "Llamaspren",
+        "Tormentaspren"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "¿Qué habilidad especial desarrolla Kaladin a lo largo de la historia?",
+      "options": [
+        "Leer el futuro",
+        "Controlar el clima",
+        "Usar luz tormentosa",
+        "Invocar una espada esquirlada"
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "¿Quién es el asesino de blanco que mata al rey Gavilar al inicio del libro?",
+      "options": [
+        "Szeth",
+        "Taravangian",
+        "Kabsal",
+        "Nale"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "¿Qué descubre Shallan sobre Jasnah y el moldeado de almas?",
+      "options": [
+        "Que Jasnah no sabe usarlo",
+        "Que el moldeador es falso",
+        "Que Jasnah lo usa sin un objeto",
+        "Que el moldeado de almas no existe"
+      ],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "¿Qué revela el Todopoderoso a Dalinar en su última visión?",
+      "options": [
+        "Que Dalinar es el elegido",
+        "Que los parshendi ganarán la guerra",
+        "Que está muerto",
+        "Que Odium es su aliado"
+      ],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "¿Qué orden da el Todopoderoso a Dalinar?",
+      "options": [
+        "Matar a Odium",
+        "Unir a los altos príncipes",
+        "Reconstruir a los Caballeros Radiantes",
+        "Abandonar las Llanuras Quebradas"
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "¿Qué secreto confiesa Shallan para formar un vínculo con el spren?",
+      "options": [
+        "Que robó el moldeador de almas",
+        "Que mató a su padre",
+        "Que es una espía",
+        "Que ama a Kabsal"
+      ],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "question": "¿Qué decide hacer Dalinar al final del libro respecto a su liderazgo?",
+      "options": [
+        "Abdicar en favor de Adolin",
+        "Aliarse con los parshendi",
+        "Volver a ser el Espina Negra",
+        "Exiliarse de Alezkar"
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "¿Qué palabras pronuncia Kaladin para activar sus poderes?",
+      "options": [
+        "Vida antes que muerte",
+        "Honor es mi guía",
+        "Yo protegeré a aquellos que no puedan protegerse",
+        "La fuerza viene del corazón"
+      ],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "¿Quién aparece en el epílogo del libro?",
+      "options": [
+        "Hoid",
+        "Szeth",
+        "Taln",
+        "Nohadon"
+      ],
+      "correctOption": 2,
+      "points": 20
+    }
+  ]
+}
