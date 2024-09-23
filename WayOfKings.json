@@ -164,6 +164,448 @@
       ],
       "correctOption": 2,
       "points": 20
+    },
+    {
+      "question": "¿Cuál es el nombre del hermano de Kaladin?",
+      "options": [
+        "Tien",
+        "Adolin",
+        "Renarin",
+        "Elhokar"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "¿Qué profesión tenía el padre de Kaladin?",
+      "options": [
+        "Soldado",
+        "Cirujano",
+        "Herrero",
+        "Mercader"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "¿Cómo se llama la capital de Alezkar?",
+      "options": [
+        "Kholinar",
+        "Kharbranth",
+        "Urithiru",
+        "Vedenar"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "¿Quién es el rey de Alezkar durante los eventos del libro?",
+      "options": [
+        "Gavilar",
+        "Dalinar",
+        "Elhokar",
+        "Taravangian"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "¿Cuál es el nombre del libro que Dalinar cita constantemente?",
+      "options": [
+        "El sendero de los vientos",
+        "La voz de las tormentas",
+        "El camino de los reyes",
+        "El código de los héroes"
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "¿Qué objeto mágico roba Shallan a Jasnah?",
+      "options": [
+        "Una espada esquirlada",
+        "Un moldeador de almas",
+        "Una gema corazón",
+        "Un fabrial"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "¿Cuál es el nombre del spren que acompaña a Kaladin?",
+      "options": [
+        "Syl",
+        "Pattern",
+        "Ivory",
+        "Glys"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "¿Qué título ostenta Dalinar al inicio del libro?",
+      "options": [
+        "Rey",
+        "Alto Príncipe",
+        "General",
+        "Heraldo"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "¿Cuál es el nombre del asesino que mata a Gavilar?",
+      "options": [
+        "Szeth",
+        "Kaladin",
+        "Moash",
+        "Taravangian"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "¿Qué grupo étnico tiene ojos claros sin ser nobles en Alezkar?",
+      "options": [
+        "Los parshendi",
+        "Los shin",
+        "Los thaylen",
+        "Los horneados"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "¿Qué habilidad especial tienen los portadores de armadura esquirlada?",
+      "options": [
+        "Volar",
+        "Fuerza sobrehumana",
+        "Invisibilidad",
+        "Telepatía"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "¿Cuál es el nombre del hijo mayor de Dalinar?",
+      "options": [
+        "Elhokar",
+        "Adolin",
+        "Renarin",
+        "Gavilar"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "¿Qué evento histórico marca el inicio de la guerra en las Llanuras Quebradas?",
+      "options": [
+        "La muerte de Gavilar",
+        "La traición de Sadeas",
+        "El Día de la Recreación",
+        "La caída de Urithiru"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "¿Qué característica física distingue a los parshendi de los parshmenios?",
+      "options": [
+        "El color de piel",
+        "La altura",
+        "Las líneas de sus patrones",
+        "El número de dedos"
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "¿Qué tipo de gemas se utilizan para almacenar luz tormentosa?",
+      "options": [
+        "Rubíes",
+        "Esmeraldas",
+        "Diamantes",
+        "Zafiros"
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "¿Cuál es el nombre del hermano de Adolin?",
+      "options": [
+        "Elhokar",
+        "Kaladin",
+        "Renarin",
+        "Tien"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "¿Qué enfermedad padece Renarin?",
+      "options": [
+        "Ceguera",
+        "Epilepsia",
+        "Parálisis",
+        "Debilidad sanguínea"
+      ],
+      "correctOption": 3,
+      "points": 20
+    },
+    {
+      "question": "¿Quién es el líder de los parshendi?",
+      "options": [
+        "Eshonai",
+        "Venli",
+        "Szeth",
+        "No se menciona"
+      ],
+      "correctOption": 3,
+      "points": 30
+    },
+    {
+      "question": "¿Qué objeto mágico posee Szeth?",
+      "options": [
+        "Un moldeador de almas",
+        "Una piedra jurada",
+        "Una gema corazón",
+        "Un fabrial de vuelo"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "¿Cuál es la profesión de Shallan al inicio del libro?",
+      "options": [
+        "Artista",
+        "Espía",
+        "Estudiante",
+        "Soldado"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "¿Qué habilidad especial tiene Shallan?",
+      "options": [
+        "Memoria eidética",
+        "Telepatía",
+        "Invisibilidad",
+        "Control del clima"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "¿Quién es el maestro de Shallan?",
+      "options": [
+        "Dalinar",
+        "Jasnah",
+        "Kabsal",
+        "Taravangian"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "¿Qué fenómeno natural es central en la vida de Roshar?",
+      "options": [
+        "Los terremotos",
+        "Las altas tormentas",
+        "Las erupciones volcánicas",
+        "Las inundaciones"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "¿Qué son las gemas corazón?",
+      "options": [
+        "Joyas preciosas",
+        "Fuentes de poder mágico",
+        "Llaves de portales",
+        "Órganos vitales de los parshendi"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "¿Cuál es el nombre del continente donde se desarrolla la historia?",
+      "options": [
+        "Alezkar",
+        "Roshar",
+        "Shinovar",
+        "Urithiru"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "¿Qué son los abismoides?",
+      "options": [
+        "Soldados de élite",
+        "Criaturas monstruosas",
+        "Spren gigantes",
+        "Naves voladoras"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "¿Qué es un fabrial?",
+      "options": [
+        "Un tipo de arma",
+        "Un dispositivo mágico",
+        "Una criatura mística",
+        "Un título nobiliario"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+{
+  "questions": [
+    {
+      "question": "¿Qué es la Antigua Magia mencionada en el libro?",
+      "options": [
+        "Un sistema de hechicería",
+        "Un pacto con entidades poderosas",
+        "Una forma de moldear almas",
+        "Una técnica de combate"
+      ],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "question": "¿Cuál es el nombre de la ciudad donde Shallan estudia con Jasnah?",
+      "options": [
+        "Kholinar",
+        "Kharbranth",
+        "Vedenar",
+        "Thaylen"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "¿Qué es Shadesmar?",
+      "options": [
+        "Un reino paralelo",
+        "Una ciudad subterránea",
+        "Un tipo de tormenta",
+        "Un estado de meditación"
+      ],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "¿Quién es el rey de Kharbranth?",
+      "options": [
+        "Elhokar",
+        "Taravangian",
+        "Sadeas",
+        "Dalinar"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "¿Qué es la Desolación mencionada en las visiones de Dalinar?",
+      "options": [
+        "Una gran tormenta",
+        "Una invasión parshendi",
+        "Un cataclismo cíclico",
+        "Una guerra civil"
+      ],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "¿Cuál es el nombre del spren que acompaña a Shallan?",
+      "options": [
+        "Syl",
+        "Pattern",
+        "Ivory",
+        "Glys"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "¿Qué es la Emoción que sienten los soldados en batalla?",
+      "options": [
+        "Miedo",
+        "Euforia",
+        "Una influencia sobrenatural",
+        "Adrenalina"
+      ],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "¿Cuál es el nombre del asesino misterioso que aparece en el epílogo?",
+      "options": [
+        "Szeth",
+        "Taln",
+        "Nale",
+        "Ishar"
+      ],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "question": "¿Qué son los Heraldos en la mitología de Roshar?",
+      "options": [
+        "Reyes antiguos",
+        "Dioses",
+        "Guerreros legendarios",
+        "Spren poderosos"
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "¿Qué es el Juramento mencionado en el prólogo?",
+      "options": [
+        "Un pacto entre naciones",
+        "Una promesa de los Heraldos",
+        "Un código de honor",
+        "Un hechizo protector"
+      ],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "question": "¿Quién es Hoid?",
+      "options": [
+        "Un rey",
+        "Un bufón",
+        "Un Heraldo",
+        "Un parshendi"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "¿Qué es la Vigilante Nocturna?",
+      "options": [
+        "Una sociedad secreta",
+        "Una entidad sobrenatural",
+        "Un título militar",
+        "Una constelación"
+      ],
+      "correctOption": 1,
+      "points": 30
+    },
+    {
+      "question": "¿Cuál es el nombre del padre de Shallan?",
+      "options": [
+        "Lin",
+        "Meridas",
+        "Wistiow",
+        "Torol"
+      ],
+      "correctOption": 0,
+      "points": 20
     }
   ]
 }
