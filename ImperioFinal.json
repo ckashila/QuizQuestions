@@ -1,0 +1,556 @@
+{
+  "questions": [
+    {
+      "question": "¿Quién es el autor de 'El Imperio Final'?",
+      "options": [
+        "Brandon Sanderson",
+        "Patrick Rothfuss",
+        "George R.R. Martin",
+        "Robert Jordan"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "¿Quién es la figura dominante que ha establecido un imperio totalitario?",
+      "options": [
+        "Kelsier",
+        "El Lord Legislador",
+        "Vin",
+        "Sazed"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "¿Cómo se llama la población oprimida en el mundo de 'El Imperio Final'?",
+      "options": [
+        "Los Nobles",
+        "Los Terrisanos",
+        "Los Skaa",
+        "Los Alománticos"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "¿Quién lidera la rebelión contra el Lord Legislador?",
+      "options": [
+        "Vin",
+        "Dockson",
+        "Sazed",
+        "Kelsier"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "¿Qué habilidad especial posee Kelsier?",
+      "options": [
+        "Feruquimia",
+        "Alomancia",
+        "Hemalurgia",
+        "Telepatía"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "¿De dónde ha regresado Kelsier, según los extractos?",
+      "options": [
+        "De la guerra",
+        "De los Pozos de Hathsin",
+        "Del exilio",
+        "De la corte del Lord Legislador"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "¿Quién es la joven Skaa reclutada por Kelsier por sus habilidades alománticas?",
+      "options": [
+        "Vin",
+        "Mare",
+        "Tindwyl",
+        "Allrianne"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "¿Qué está aprendiendo Vin para infiltrarse en la corte del Lord Legislador?",
+      "options": [
+        "Magia negra",
+        "Alomancia avanzada",
+        "Etiqueta y costumbres de la nobleza",
+        "Idiomas extranjeros"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "¿Qué raza es Sazed?",
+      "options": [
+        "Skaa",
+        "Noble",
+        "Kandra",
+        "Terrisano"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "¿Qué habilidad especial posee Sazed?",
+      "options": [
+        "Alomancia",
+        "Feruquimia",
+        "Hemalurgia",
+        "Adivinación"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "¿Cuál es el papel de Dockson en la rebelión?",
+      "options": [
+        "Espía",
+        "Guerrero",
+        "Logística y finanzas",
+        "Líder religioso"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "¿En qué se especializa Brisa como alomántico?",
+      "options": [
+        "Manipulación física",
+        "Manipulación mental",
+        "Manipulación emocional",
+        "Manipulación temporal"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "¿Quién es el segundo al mando de Kelsier?",
+      "options": [
+        "Dockson",
+        "Brisa",
+        "Ham",
+        "Marsh"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "¿Dónde trabaja Marsh como espía?",
+      "options": [
+        "En la corte del Lord Legislador",
+        "En el Ministerio",
+        "En la Guarnición de Luthadel",
+        "En la mansión de Lord Renoux"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "¿Quién es Lord Renoux en realidad?",
+      "options": [
+        "Un noble aliado",
+        "Kelsier disfrazado",
+        "Un actor contratado",
+        "El hermano del Lord Legislador"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "¿Quién es Yeden?",
+      "options": [
+        "El líder de la rebelión Skaa",
+        "Un noble traidor",
+        "El hermano de Kelsier",
+        "El capitán de la Guarnición de Luthadel"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "¿Dónde se organizan las reuniones secretas para reclutar al ejército Skaa?",
+      "options": [
+        "En los campos de cultivo",
+        "En los suburbios de Luthadel",
+        "En la mansión de Lord Renoux",
+        "En los Pozos de Hathsin"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "¿Qué papel juega Brisa en las reuniones de reclutamiento?",
+      "options": [
+        "Guardaespaldas",
+        "Orador principal",
+        "Manipulador emocional",
+        "Traductor"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "¿Qué está adquiriendo Lord Renoux en grandes cantidades?",
+      "options": [
+        "Alimentos",
+        "Metales alománticos",
+        "Libros prohibidos",
+        "Armas y armaduras"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "¿Cuál es uno de los principales obstáculos para la rebelión en Luthadel?",
+      "options": [
+        "La falta de alimentos",
+        "La Guarnición de Luthadel",
+        "El clima extremo",
+        "La falta de alománticos"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "¿Cómo se infiltra Vin en la corte del Lord Legislador?",
+      "options": [
+        "Como sirvienta",
+        "Como guardia",
+        "Como sobrina de Lord Renoux",
+        "Como espía del Ministerio"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "¿Qué cree Kelsier que contiene la clave para derrotar al Lord Legislador?",
+      "options": [
+        "Un antiguo libro de viajes",
+        "Un arma secreta",
+        "Un mapa del palacio",
+        "Un metal alomántico desconocido"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "¿Quién se encarga de traducir el libro de viajes del Lord Legislador?",
+      "options": [
+        "Kelsier",
+        "Vin",
+        "Sazed",
+        "Marsh"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "¿Qué está prohibido adorar según el Ministerio?",
+      "options": [
+        "A los antiguos dioses",
+        "A cualquier otro dios que no sea el Lord Legislador",
+        "A los héroes de la rebelión",
+        "A los alománticos"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "¿Qué utiliza Yeden para unir a su pueblo?",
+      "options": [
+        "La promesa de riquezas",
+        "La amenaza de violencia",
+        "La religión",
+        "La alomancia"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "¿Qué hace que Sazed sea un activo valioso para la rebelión?",
+      "options": [
+        "Su fuerza física",
+        "Su capacidad para almacenar información",
+        "Su habilidad para manipular emociones",
+        "Su conexión con la nobleza"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "¿Qué dilema moral enfrenta Kelsier en su lucha?",
+      "options": [
+        "Si debe abandonar a los Skaa",
+        "Si debe unirse al Lord Legislador",
+        "Si debe sacrificar vidas para lograr su objetivo",
+        "Si debe revelar su identidad"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "¿Cuál es la capital del Imperio Final?",
+      "options": [
+        "Terris",
+        "Luthadel",
+        "Hathsin",
+        "Renoux"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "¿Qué tipo de gobierno ha establecido el Lord Legislador?",
+      "options": [
+        "Democracia",
+        "Monarquía constitucional",
+        "Imperio totalitario",
+        "Teocracia"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "¿Cuánto tiempo ha estado oprimiendo el Lord Legislador a los Skaa?",
+      "options": [
+        "Décadas",
+        "Siglos",
+        "Años",
+        "Milenios"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "¿Qué característica se destaca de Kelsier como líder?",
+      "options": [
+        "Su crueldad",
+        "Su carisma",
+        "Su cobardía",
+        "Su indecisión"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "¿Qué está aprendiendo Vin además de la etiqueta de la nobleza?",
+      "options": [
+        "Cocina",
+        "Esgrima",
+        "Sus poderes alománticos",
+        "Idiomas extranjeros"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "¿Qué tipo de habilidad es la feruquimia?",
+      "options": [
+        "Manipulación del metal",
+        "Control del tiempo",
+        "Almacenamiento de recuerdos y conocimientos",
+        "Transformación física"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "¿Cuál es la principal responsabilidad de Dockson en la rebelión?",
+      "options": [
+        "Entrenar soldados",
+        "Espiar al enemigo",
+        "Manejar la logística y las finanzas",
+        "Reclutar nuevos miembros"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "¿Por qué característica es conocido Ham?",
+      "options": [
+        "Su inteligencia",
+        "Su fuerza física y capacidad estratégica",
+        "Su habilidad para mentir",
+        "Su conocimiento de la alomancia"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "¿Qué relación tiene Marsh con Kelsier?",
+      "options": [
+        "Son primos",
+        "Son hermanos",
+        "Son padre e hijo",
+        "Son mejores amigos"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "¿Cuál es el propósito de la mansión de Lord Renoux?",
+      "options": [
+        "Servir como cuartel general de la rebelión",
+        "Almacenar armas y suministros",
+        "Actuar como tapadera para las operaciones del grupo",
+        "Entrenar a nuevos alománticos"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "¿Qué ha contratado Yeden a Kelsier y su equipo para hacer?",
+      "options": [
+        "Protegerlo de asesinos",
+        "Entrenar un ejército",
+        "Robar al Lord Legislador",
+        "Derrocar al Lord Legislador"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "¿Cuál es uno de los principales temas de la novela?",
+      "options": [
+        "El amor romántico",
+        "La exploración espacial",
+        "La lucha contra la opresión",
+        "La preservación del medio ambiente"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "¿Qué representa Kelsier y su equipo para los Skaa?",
+      "options": [
+        "Una amenaza",
+        "Una molestia",
+        "Una esperanza de un futuro mejor",
+        "Una distracción de sus problemas"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "questions": [
+        {
+          "question": "¿Qué utiliza Yeden como herramienta para unir a su pueblo?",
+          "options": [
+            "La fuerza",
+            "El dinero",
+            "La religión",
+            "La alomancia"
+          ],
+          "correctOption": 2,
+          "points": 10
+        },
+        {
+          "question": "¿Qué se presenta como un arma poderosa en la lucha contra el Lord Legislador?",
+          "options": [
+            "Las armas convencionales",
+            "La magia negra",
+            "El conocimiento",
+            "La fuerza bruta"
+          ],
+          "correctOption": 2,
+          "points": 10
+        },
+        {
+          "question": "¿Qué tipo de decisiones está dispuesto a tomar Kelsier para lograr su objetivo?",
+          "options": [
+            "Decisiones pacíficas",
+            "Decisiones diplomáticas",
+            "Decisiones democráticas",
+            "Decisiones difíciles y sacrificios"
+          ],
+          "correctOption": 3,
+          "points": 10
+        },
+        {
+          "question": "¿Qué tipo de historia se describe en los extractos de 'El Imperio Final'?",
+          "options": [
+            "Una comedia romántica",
+            "Un drama histórico",
+            "Una historia épica de acción e intriga",
+            "Un relato autobiográfico"
+          ],
+          "correctOption": 2,
+          "points": 10
+        },
+        {
+          "question": "¿Qué busca la trama principal de la novela?",
+          "options": [
+            "Encontrar un tesoro escondido",
+            "Derrocar al Lord Legislador",
+            "Escapar del Imperio Final",
+            "Descubrir el origen de la alomancia"
+          ],
+          "correctOption": 1,
+          "points": 10
+        },
+        {
+          "question": "¿Qué tipo de poder utiliza Brisa en las reuniones de reclutamiento?",
+          "options": [
+            "Telepatía",
+            "Manipulación del tiempo",
+            "Manipulación emocional",
+            "Control mental"
+          ],
+          "correctOption": 2,
+          "points": 10
+        },
+        {
+          "question": "¿Cuál es el propósito de la infiltración de Vin en la corte del Lord Legislador?",
+          "options": [
+            "Asesinar al Lord Legislador",
+            "Robar documentos secretos",
+            "Obtener información sobre los movimientos del Lord Legislador",
+            "Seducir a miembros de la nobleza"
+          ],
+          "correctOption": 2,
+          "points": 10
+        },
+        {
+          "question": "¿Qué cree Kelsier que contiene el libro de viajes del Lord Legislador?",
+          "options": [
+            "Mapas de tesoros escondidos",
+            "Hechizos mágicos poderosos",
+            "Información sobre la debilidad del Lord Legislador",
+            "La historia de la creación del Imperio Final"
+          ],
+          "correctOption": 2,
+          "points": 10
+        },
+        {
+          "question": "¿Qué habilidad especial tiene Sazed que lo hace valioso para la rebelión?",
+          "options": [
+            "Super fuerza",
+            "Invisibilidad",
+            "Capacidad de almacenar conocimientos",
+            "Habilidad para controlar el clima"
+          ],
+          "correctOption": 2,
+          "points": 10
+        },
+        {
+          "question": "¿Cuál es uno de los principales obstáculos para la rebelión en Luthadel?",
+          "options": [
+            "La falta de alimentos",
+            "La Guarnición de Luthadel",
+            "El clima extremo",
+            "La falta de apoyo popular"
+          ],
+          "correctOption": 1,
+          "points": 10
+        }
+      ]
+    }
