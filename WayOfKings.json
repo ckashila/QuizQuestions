@@ -1,7 +1,7 @@
 {
   "questions": [
     {
-      "question": "¿Quién es el autor de 'El camino de los reyes'?",
+      "question": "¿Quién es el autor de 'El Imperio Final'?",
       "options": [
         "Brandon Sanderson",
         "Patrick Rothfuss",
@@ -12,598 +12,543 @@
       "points": 10
     },
     {
-      "question": "¿Cuál es el nombre del protagonista que lidera el Puente Cuatro?",
+      "question": "¿Quién es la figura dominante que ha establecido un imperio totalitario?",
       "options": [
-        "Dalinar",
-        "Adolin",
-        "Kaladin",
-        "Szeth"
-      ],
-      "correctOption": 2,
-      "points": 10
-    },
-    {
-      "question": "¿Qué grupo de personas son en realidad los Portadores del Vacío esclavizados?",
-      "options": [
-        "Los alezi",
-        "Los parshendi",
-        "Los parshmenios",
-        "Los shin"
-      ],
-      "correctOption": 2,
-      "points": 20
-    },
-    {
-      "question": "¿Quién traiciona a Dalinar en la batalla de la Torre?",
-      "options": [
-        "Elhokar",
-        "Adolin",
-        "Sadeas",
-        "Amaram"
-      ],
-      "correctOption": 2,
-      "points": 10
-    },
-    {
-      "question": "¿Qué objeto intercambia Dalinar por la libertad de los hombres de los puentes?",
-      "options": [
-        "Su armadura esquirlada",
-        "Su espada esquirlada",
-        "Su reino",
-        "Su título de Alto Príncipe"
-      ],
-      "correctOption": 1,
-      "points": 20
-    },
-    {
-      "question": "¿Qué tipo de spren es Syl?",
-      "options": [
-        "Vientospren",
-        "Honorspren",
-        "Llamaspren",
-        "Tormentaspren"
-      ],
-      "correctOption": 1,
-      "points": 20
-    },
-    {
-      "question": "¿Qué habilidad especial desarrolla Kaladin a lo largo de la historia?",
-      "options": [
-        "Leer el futuro",
-        "Controlar el clima",
-        "Usar luz tormentosa",
-        "Invocar una espada esquirlada"
-      ],
-      "correctOption": 2,
-      "points": 20
-    },
-    {
-      "question": "¿Quién es el asesino de blanco que mata al rey Gavilar al inicio del libro?",
-      "options": [
-        "Szeth",
-        "Taravangian",
-        "Kabsal",
-        "Nale"
-      ],
-      "correctOption": 0,
-      "points": 10
-    },
-    {
-      "question": "¿Qué descubre Shallan sobre Jasnah y el moldeado de almas?",
-      "options": [
-        "Que Jasnah no sabe usarlo",
-        "Que el moldeador es falso",
-        "Que Jasnah lo usa sin un objeto",
-        "Que el moldeado de almas no existe"
-      ],
-      "correctOption": 2,
-      "points": 30
-    },
-    {
-      "question": "¿Qué revela el Todopoderoso a Dalinar en su última visión?",
-      "options": [
-        "Que Dalinar es el elegido",
-        "Que los parshendi ganarán la guerra",
-        "Que está muerto",
-        "Que Odium es su aliado"
-      ],
-      "correctOption": 2,
-      "points": 30
-    },
-    {
-      "question": "¿Qué orden da el Todopoderoso a Dalinar?",
-      "options": [
-        "Matar a Odium",
-        "Unir a los altos príncipes",
-        "Reconstruir a los Caballeros Radiantes",
-        "Abandonar las Llanuras Quebradas"
-      ],
-      "correctOption": 2,
-      "points": 20
-    },
-    {
-      "question": "¿Qué secreto confiesa Shallan para formar un vínculo con el spren?",
-      "options": [
-        "Que robó el moldeador de almas",
-        "Que mató a su padre",
-        "Que es una espía",
-        "Que ama a Kabsal"
-      ],
-      "correctOption": 1,
-      "points": 30
-    },
-    {
-      "question": "¿Qué decide hacer Dalinar al final del libro respecto a su liderazgo?",
-      "options": [
-        "Abdicar en favor de Adolin",
-        "Aliarse con los parshendi",
-        "Volver a ser el Espina Negra",
-        "Exiliarse de Alezkar"
-      ],
-      "correctOption": 2,
-      "points": 20
-    },
-    {
-      "question": "¿Qué palabras pronuncia Kaladin para activar sus poderes?",
-      "options": [
-        "Vida antes que muerte",
-        "Honor es mi guía",
-        "Yo protegeré a aquellos que no puedan protegerse",
-        "La fuerza viene del corazón"
-      ],
-      "correctOption": 2,
-      "points": 30
-    },
-    {
-      "question": "¿Quién aparece en el epílogo del libro?",
-      "options": [
-        "Hoid",
-        "Szeth",
-        "Taln",
-        "Nohadon"
-      ],
-      "correctOption": 2,
-      "points": 20
-    },
-    {
-      "question": "¿Cuál es el nombre del hermano de Kaladin?",
-      "options": [
-        "Tien",
-        "Adolin",
-        "Renarin",
-        "Elhokar"
-      ],
-      "correctOption": 0,
-      "points": 10
-    },
-    {
-      "question": "¿Qué profesión tenía el padre de Kaladin?",
-      "options": [
-        "Soldado",
-        "Cirujano",
-        "Herrero",
-        "Mercader"
+        "Kelsier",
+        "El Lord Legislador",
+        "Vin",
+        "Sazed"
       ],
       "correctOption": 1,
       "points": 10
     },
     {
-      "question": "¿Cómo se llama la capital de Alezkar?",
+      "question": "¿Cómo se llama la población oprimida en el mundo de 'El Imperio Final'?",
       "options": [
-        "Kholinar",
-        "Kharbranth",
-        "Urithiru",
-        "Vedenar"
-      ],
-      "correctOption": 0,
-      "points": 20
-    },
-    {
-      "question": "¿Quién es el rey de Alezkar durante los eventos del libro?",
-      "options": [
-        "Gavilar",
-        "Dalinar",
-        "Elhokar",
-        "Taravangian"
+        "Los Nobles",
+        "Los Terrisanos",
+        "Los Skaa",
+        "Los Alománticos"
       ],
       "correctOption": 2,
       "points": 10
     },
     {
-      "question": "¿Cuál es el nombre del libro que Dalinar cita constantemente?",
+      "question": "¿Quién lidera la rebelión contra el Lord Legislador?",
       "options": [
-        "El sendero de los vientos",
-        "La voz de las tormentas",
-        "El camino de los reyes",
-        "El código de los héroes"
+        "Vin",
+        "Dockson",
+        "Sazed",
+        "Kelsier"
       ],
-      "correctOption": 2,
-      "points": 20
-    },
-    {
-      "question": "¿Qué objeto mágico roba Shallan a Jasnah?",
-      "options": [
-        "Una espada esquirlada",
-        "Un moldeador de almas",
-        "Una gema corazón",
-        "Un fabrial"
-      ],
-      "correctOption": 1,
-      "points": 20
-    },
-    {
-      "question": "¿Cuál es el nombre del spren que acompaña a Kaladin?",
-      "options": [
-        "Syl",
-        "Pattern",
-        "Ivory",
-        "Glys"
-      ],
-      "correctOption": 0,
+      "correctOption": 3,
       "points": 10
     },
     {
-      "question": "¿Qué título ostenta Dalinar al inicio del libro?",
+      "question": "¿Qué habilidad especial posee Kelsier?",
       "options": [
-        "Rey",
-        "Alto Príncipe",
-        "General",
-        "Heraldo"
-      ],
-      "correctOption": 1,
-      "points": 10
-    },
-    {
-      "question": "¿Cuál es el nombre del asesino que mata a Gavilar?",
-      "options": [
-        "Szeth",
-        "Kaladin",
-        "Moash",
-        "Taravangian"
-      ],
-      "correctOption": 0,
-      "points": 10
-    },
-    {
-      "question": "¿Qué grupo étnico tiene ojos claros sin ser nobles en Alezkar?",
-      "options": [
-        "Los parshendi",
-        "Los shin",
-        "Los thaylen",
-        "Los horneados"
-      ],
-      "correctOption": 1,
-      "points": 20
-    },
-    {
-      "question": "¿Qué habilidad especial tienen los portadores de armadura esquirlada?",
-      "options": [
-        "Volar",
-        "Fuerza sobrehumana",
-        "Invisibilidad",
+        "Feruquimia",
+        "Alomancia",
+        "Hemalurgia",
         "Telepatía"
       ],
       "correctOption": 1,
-      "points": 20
+      "points": 10
     },
     {
-      "question": "¿Cuál es el nombre del hijo mayor de Dalinar?",
+      "question": "¿De dónde ha regresado Kelsier, según los extractos?",
       "options": [
-        "Elhokar",
-        "Adolin",
-        "Renarin",
-        "Gavilar"
+        "De la guerra",
+        "De los Pozos de Hathsin",
+        "Del exilio",
+        "De la corte del Lord Legislador"
       ],
       "correctOption": 1,
       "points": 10
     },
     {
-      "question": "¿Qué evento histórico marca el inicio de la guerra en las Llanuras Quebradas?",
+      "question": "¿Quién es la joven Skaa reclutada por Kelsier por sus habilidades alománticas?",
       "options": [
-        "La muerte de Gavilar",
-        "La traición de Sadeas",
-        "El Día de la Recreación",
-        "La caída de Urithiru"
+        "Vin",
+        "Mare",
+        "Tindwyl",
+        "Allrianne"
       ],
       "correctOption": 0,
-      "points": 20
+      "points": 10
     },
     {
-      "question": "¿Qué característica física distingue a los parshendi de los parshmenios?",
+      "question": "¿Qué está aprendiendo Vin para infiltrarse en la corte del Lord Legislador?",
       "options": [
-        "El color de piel",
-        "La altura",
-        "Las líneas de sus patrones",
-        "El número de dedos"
-      ],
-      "correctOption": 2,
-      "points": 20
-    },
-    {
-      "question": "¿Qué tipo de gemas se utilizan para almacenar luz tormentosa?",
-      "options": [
-        "Rubíes",
-        "Esmeraldas",
-        "Diamantes",
-        "Zafiros"
-      ],
-      "correctOption": 2,
-      "points": 20
-    },
-    {
-      "question": "¿Cuál es el nombre del hermano de Adolin?",
-      "options": [
-        "Elhokar",
-        "Kaladin",
-        "Renarin",
-        "Tien"
+        "Magia negra",
+        "Alomancia avanzada",
+        "Etiqueta y costumbres de la nobleza",
+        "Idiomas extranjeros"
       ],
       "correctOption": 2,
       "points": 10
     },
     {
-      "question": "¿Qué enfermedad padece Renarin?",
+      "question": "¿Qué raza es Sazed?",
       "options": [
-        "Ceguera",
-        "Epilepsia",
-        "Parálisis",
-        "Debilidad sanguínea"
+        "Skaa",
+        "Noble",
+        "Kandra",
+        "Terrisano"
       ],
       "correctOption": 3,
-      "points": 20
+      "points": 10
     },
     {
-      "question": "¿Quién es el líder de los parshendi?",
+      "question": "¿Qué habilidad especial posee Sazed?",
       "options": [
-        "Eshonai",
-        "Venli",
-        "Szeth",
-        "No se menciona"
-      ],
-      "correctOption": 3,
-      "points": 30
-    },
-    {
-      "question": "¿Qué objeto mágico posee Szeth?",
-      "options": [
-        "Un moldeador de almas",
-        "Una piedra jurada",
-        "Una gema corazón",
-        "Un fabrial de vuelo"
+        "Alomancia",
+        "Feruquimia",
+        "Hemalurgia",
+        "Adivinación"
       ],
       "correctOption": 1,
-      "points": 20
+      "points": 10
     },
     {
-      "question": "¿Cuál es la profesión de Shallan al inicio del libro?",
+      "question": "¿Cuál es el papel de Dockson en la rebelión?",
       "options": [
-        "Artista",
         "Espía",
-        "Estudiante",
-        "Soldado"
+        "Guerrero",
+        "Logística y finanzas",
+        "Líder religioso"
       ],
       "correctOption": 2,
       "points": 10
     },
     {
-      "question": "¿Qué habilidad especial tiene Shallan?",
+      "question": "¿En qué se especializa Brisa como alomántico?",
       "options": [
-        "Memoria eidética",
-        "Telepatía",
-        "Invisibilidad",
-        "Control del clima"
+        "Manipulación física",
+        "Manipulación mental",
+        "Manipulación emocional",
+        "Manipulación temporal"
       ],
-      "correctOption": 0,
-      "points": 20
+      "correctOption": 2,
+      "points": 10
     },
     {
-      "question": "¿Quién es el maestro de Shallan?",
+      "question": "¿Quién es el segundo al mando de Kelsier?",
       "options": [
-        "Dalinar",
-        "Jasnah",
-        "Kabsal",
-        "Taravangian"
+        "Dockson",
+        "Brisa",
+        "Ham",
+        "Marsh"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "¿Dónde trabaja Marsh como espía?",
+      "options": [
+        "En la corte del Lord Legislador",
+        "En el Ministerio",
+        "En la Guarnición de Luthadel",
+        "En la mansión de Lord Renoux"
       ],
       "correctOption": 1,
       "points": 10
     },
     {
-      "question": "¿Qué fenómeno natural es central en la vida de Roshar?",
+      "question": "¿Quién es Lord Renoux en realidad?",
       "options": [
-        "Los terremotos",
-        "Las altas tormentas",
-        "Las erupciones volcánicas",
-        "Las inundaciones"
+        "Un noble aliado",
+        "Kelsier disfrazado",
+        "Un actor contratado",
+        "El hermano del Lord Legislador"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "¿Quién es Yeden?",
+      "options": [
+        "El líder de la rebelión Skaa",
+        "Un noble traidor",
+        "El hermano de Kelsier",
+        "El capitán de la Guarnición de Luthadel"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "¿Dónde se organizan las reuniones secretas para reclutar al ejército Skaa?",
+      "options": [
+        "En los campos de cultivo",
+        "En los suburbios de Luthadel",
+        "En la mansión de Lord Renoux",
+        "En los Pozos de Hathsin"
       ],
       "correctOption": 1,
       "points": 10
     },
     {
-      "question": "¿Qué son las gemas corazón?",
+      "question": "¿Qué papel juega Brisa en las reuniones de reclutamiento?",
       "options": [
-        "Joyas preciosas",
-        "Fuentes de poder mágico",
-        "Llaves de portales",
-        "Órganos vitales de los parshendi"
+        "Guardaespaldas",
+        "Orador principal",
+        "Manipulador emocional",
+        "Traductor"
       ],
-      "correctOption": 1,
-      "points": 20
+      "correctOption": 2,
+      "points": 10
     },
     {
-      "question": "¿Cuál es el nombre del continente donde se desarrolla la historia?",
+      "question": "¿Qué está adquiriendo Lord Renoux en grandes cantidades?",
       "options": [
-        "Alezkar",
-        "Roshar",
-        "Shinovar",
-        "Urithiru"
+        "Alimentos",
+        "Metales alománticos",
+        "Libros prohibidos",
+        "Armas y armaduras"
       ],
-      "correctOption": 1,
-      "points": 20
+      "correctOption": 3,
+      "points": 10
     },
     {
-      "question": "¿Qué son los abismoides?",
+      "question": "¿Cuál es uno de los principales obstáculos para la rebelión en Luthadel?",
       "options": [
-        "Soldados de élite",
-        "Criaturas monstruosas",
-        "Spren gigantes",
-        "Naves voladoras"
+        "La falta de alimentos",
+        "La Guarnición de Luthadel",
+        "El clima extremo",
+        "La falta de alománticos"
       ],
       "correctOption": 1,
-      "points": 20
+      "points": 10
     },
     {
-      "question": "¿Qué es un fabrial?",
+      "question": "¿Cómo se infiltra Vin en la corte del Lord Legislador?",
       "options": [
-        "Un tipo de arma",
-        "Un dispositivo mágico",
-        "Una criatura mística",
-        "Un título nobiliario"
+        "Como sirvienta",
+        "Como guardia",
+        "Como sobrina de Lord Renoux",
+        "Como espía del Ministerio"
       ],
-      "correctOption": 1,
-      "points": 20
+      "correctOption": 2,
+      "points": 10
     },
     {
-      "question": "¿Qué es la Antigua Magia mencionada en el libro?",
+      "question": "¿Qué cree Kelsier que contiene la clave para derrotar al Lord Legislador?",
       "options": [
-        "Un sistema de hechicería",
-        "Un pacto con entidades poderosas",
-        "Una forma de moldear almas",
-        "Una técnica de combate"
-      ],
-      "correctOption": 1,
-      "points": 30
-    },
-    {
-      "question": "¿Cuál es el nombre de la ciudad donde Shallan estudia con Jasnah?",
-      "options": [
-        "Kholinar",
-        "Kharbranth",
-        "Vedenar",
-        "Thaylen"
-      ],
-      "correctOption": 1,
-      "points": 20
-    },
-    {
-      "question": "¿Qué es Shadesmar?",
-      "options": [
-        "Un reino paralelo",
-        "Una ciudad subterránea",
-        "Un tipo de tormenta",
-        "Un estado de meditación"
+        "Un antiguo libro de viajes",
+        "Un arma secreta",
+        "Un mapa del palacio",
+        "Un metal alomántico desconocido"
       ],
       "correctOption": 0,
-      "points": 30
+      "points": 10
     },
     {
-      "question": "¿Quién es el rey de Kharbranth?",
+      "question": "¿Quién se encarga de traducir el libro de viajes del Lord Legislador?",
       "options": [
-        "Elhokar",
-        "Taravangian",
-        "Sadeas",
-        "Dalinar"
-      ],
-      "correctOption": 1,
-      "points": 20
-    },
-    {
-      "question": "¿Qué es la Desolación mencionada en las visiones de Dalinar?",
-      "options": [
-        "Una gran tormenta",
-        "Una invasión parshendi",
-        "Un cataclismo cíclico",
-        "Una guerra civil"
+        "Kelsier",
+        "Vin",
+        "Sazed",
+        "Marsh"
       ],
       "correctOption": 2,
-      "points": 30
+      "points": 10
     },
     {
-      "question": "¿Cuál es el nombre del spren que acompaña a Shallan?",
+      "question": "¿Qué está prohibido adorar según el Ministerio?",
       "options": [
-        "Syl",
-        "Pattern",
-        "Ivory",
-        "Glys"
+        "A los antiguos dioses",
+        "A cualquier otro dios que no sea el Lord Legislador",
+        "A los héroes de la rebelión",
+        "A los alománticos"
       ],
       "correctOption": 1,
-      "points": 20
+      "points": 10
     },
     {
-      "question": "¿Qué es la Emoción que sienten los soldados en batalla?",
+      "question": "¿Qué utiliza Yeden para unir a su pueblo?",
       "options": [
-        "Miedo",
-        "Euforia",
-        "Una influencia sobrenatural",
-        "Adrenalina"
+        "La promesa de riquezas",
+        "La amenaza de violencia",
+        "La religión",
+        "La alomancia"
       ],
       "correctOption": 2,
-      "points": 30
+      "points": 10
     },
     {
-      "question": "¿Cuál es el nombre del asesino misterioso que aparece en el epílogo?",
+      "question": "¿Qué hace que Sazed sea un activo valioso para la rebelión?",
       "options": [
-        "Szeth",
-        "Taln",
-        "Nale",
-        "Ishar"
+        "Su fuerza física",
+        "Su capacidad para almacenar información",
+        "Su habilidad para manipular emociones",
+        "Su conexión con la nobleza"
       ],
       "correctOption": 1,
-      "points": 30
+      "points": 10
     },
     {
-      "question": "¿Qué son los Heraldos en la mitología de Roshar?",
+      "question": "¿Qué dilema moral enfrenta Kelsier en su lucha?",
       "options": [
-        "Reyes antiguos",
-        "Dioses",
-        "Guerreros legendarios",
-        "Spren poderosos"
+        "Si debe abandonar a los Skaa",
+        "Si debe unirse al Lord Legislador",
+        "Si debe sacrificar vidas para lograr su objetivo",
+        "Si debe revelar su identidad"
       ],
       "correctOption": 2,
-      "points": 20
+      "points": 10
     },
     {
-      "question": "¿Qué es el Juramento mencionado en el prólogo?",
+      "question": "¿Cuál es la capital del Imperio Final?",
       "options": [
-        "Un pacto entre naciones",
-        "Una promesa de los Heraldos",
-        "Un código de honor",
-        "Un hechizo protector"
+        "Terris",
+        "Luthadel",
+        "Hathsin",
+        "Renoux"
       ],
       "correctOption": 1,
-      "points": 30
+      "points": 10
     },
     {
-      "question": "¿Quién es Hoid?",
+      "question": "¿Qué tipo de gobierno ha establecido el Lord Legislador?",
       "options": [
-        "Un rey",
-        "Un bufón",
-        "Un Heraldo",
-        "Un parshendi"
+        "Democracia",
+        "Monarquía constitucional",
+        "Imperio totalitario",
+        "Teocracia"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "¿Cuánto tiempo ha estado oprimiendo el Lord Legislador a los Skaa?",
+      "options": [
+        "Décadas",
+        "Siglos",
+        "Años",
+        "Milenios"
       ],
       "correctOption": 1,
-      "points": 20
+      "points": 10
     },
     {
-      "question": "¿Qué es la Vigilante Nocturna?",
+      "question": "¿Qué característica se destaca de Kelsier como líder?",
       "options": [
-        "Una sociedad secreta",
-        "Una entidad sobrenatural",
-        "Un título militar",
-        "Una constelación"
+        "Su crueldad",
+        "Su carisma",
+        "Su cobardía",
+        "Su indecisión"
       ],
       "correctOption": 1,
-      "points": 30
+      "points": 10
     },
     {
-      "question": "¿Cuál es el nombre del padre de Shallan?",
+      "question": "¿Qué está aprendiendo Vin además de la etiqueta de la nobleza?",
       "options": [
-        "Lin",
-        "Meridas",
-        "Wistiow",
-        "Torol"
+        "Cocina",
+        "Esgrima",
+        "Sus poderes alománticos",
+        "Idiomas extranjeros"
       ],
-      "correctOption": 0,
-      "points": 20
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "¿Qué tipo de habilidad es la feruquimia?",
+      "options": [
+        "Manipulación del metal",
+        "Control del tiempo",
+        "Almacenamiento de recuerdos y conocimientos",
+        "Transformación física"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "¿Cuál es la principal responsabilidad de Dockson en la rebelión?",
+      "options": [
+        "Entrenar soldados",
+        "Espiar al enemigo",
+        "Manejar la logística y las finanzas",
+        "Reclutar nuevos miembros"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "¿Por qué característica es conocido Ham?",
+      "options": [
+        "Su inteligencia",
+        "Su fuerza física y capacidad estratégica",
+        "Su habilidad para mentir",
+        "Su conocimiento de la alomancia"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "¿Qué relación tiene Marsh con Kelsier?",
+      "options": [
+        "Son primos",
+        "Son hermanos",
+        "Son padre e hijo",
+        "Son mejores amigos"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "¿Cuál es el propósito de la mansión de Lord Renoux?",
+      "options": [
+        "Servir como cuartel general de la rebelión",
+        "Almacenar armas y suministros",
+        "Actuar como tapadera para las operaciones del grupo",
+        "Entrenar a nuevos alománticos"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "¿Qué ha contratado Yeden a Kelsier y su equipo para hacer?",
+      "options": [
+        "Protegerlo de asesinos",
+        "Entrenar un ejército",
+        "Robar al Lord Legislador",
+        "Derrocar al Lord Legislador"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "¿Cuál es uno de los principales temas de la novela?",
+      "options": [
+        "El amor romántico",
+        "La exploración espacial",
+        "La lucha contra la opresión",
+        "La preservación del medio ambiente"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "¿Qué representa Kelsier y su equipo para los Skaa?",
+      "options": [
+        "Una amenaza",
+        "Una molestia",
+        "Una esperanza de un futuro mejor",
+        "Una distracción de sus problemas"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+         {
+          "question": "¿Qué utiliza Yeden como herramienta para unir a su pueblo?",
+          "options": [
+            "La fuerza",
+            "El dinero",
+            "La religión",
+            "La alomancia"
+          ],
+          "correctOption": 2,
+          "points": 10
+        },
+        {
+          "question": "¿Qué se presenta como un arma poderosa en la lucha contra el Lord Legislador?",
+          "options": [
+            "Las armas convencionales",
+            "La magia negra",
+            "El conocimiento",
+            "La fuerza bruta"
+          ],
+          "correctOption": 2,
+          "points": 10
+        },
+        {
+          "question": "¿Qué tipo de decisiones está dispuesto a tomar Kelsier para lograr su objetivo?",
+          "options": [
+            "Decisiones pacíficas",
+            "Decisiones diplomáticas",
+            "Decisiones democráticas",
+            "Decisiones difíciles y sacrificios"
+          ],
+          "correctOption": 3,
+          "points": 10
+        },
+        {
+          "question": "¿Qué tipo de historia se describe en los extractos de 'El Imperio Final'?",
+          "options": [
+            "Una comedia romántica",
+            "Un drama histórico",
+            "Una historia épica de acción e intriga",
+            "Un relato autobiográfico"
+          ],
+          "correctOption": 2,
+          "points": 10
+        },
+        {
+          "question": "¿Qué busca la trama principal de la novela?",
+          "options": [
+            "Encontrar un tesoro escondido",
+            "Derrocar al Lord Legislador",
+            "Escapar del Imperio Final",
+            "Descubrir el origen de la alomancia"
+          ],
+          "correctOption": 1,
+          "points": 10
+        },
+        {
+          "question": "¿Qué tipo de poder utiliza Brisa en las reuniones de reclutamiento?",
+          "options": [
+            "Telepatía",
+            "Manipulación del tiempo",
+            "Manipulación emocional",
+            "Control mental"
+          ],
+          "correctOption": 2,
+          "points": 10
+        },
+        {
+          "question": "¿Cuál es el propósito de la infiltración de Vin en la corte del Lord Legislador?",
+          "options": [
+            "Asesinar al Lord Legislador",
+            "Robar documentos secretos",
+            "Obtener información sobre los movimientos del Lord Legislador",
+            "Seducir a miembros de la nobleza"
+          ],
+          "correctOption": 2,
+          "points": 10
+        },
+        {
+          "question": "¿Qué cree Kelsier que contiene el libro de viajes del Lord Legislador?",
+          "options": [
+            "Mapas de tesoros escondidos",
+            "Hechizos mágicos poderosos",
+            "Información sobre la debilidad del Lord Legislador",
+            "La historia de la creación del Imperio Final"
+          ],
+          "correctOption": 2,
+          "points": 10
+        },
+        {
+          "question": "¿Qué habilidad especial tiene Sazed que lo hace valioso para la rebelión?",
+          "options": [
+            "Super fuerza",
+            "Invisibilidad",
+            "Capacidad de almacenar conocimientos",
+            "Habilidad para controlar el clima"
+          ],
+          "correctOption": 2,
+          "points": 10
+        },
+        {
+          "question": "¿Cuál es uno de los principales obstáculos para la rebelión en Luthadel?",
+          "options": [
+            "La falta de alimentos",
+            "La Guarnición de Luthadel",
+            "El clima extremo",
+            "La falta de apoyo popular"
+          ],
+          "correctOption": 1,
+          "points": 10
+        }
+      ]
     }
-  ]
-}
